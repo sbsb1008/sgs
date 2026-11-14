@@ -1,0 +1,55 @@
+{
+  "item": {
+    "id": "com.ysnb.sgs",
+    "restype": "quick_app",
+    "name": "三国杀",
+    "description": "免费，多模式的三国杀",
+    "preview": [
+      "media/主页.png",
+      "media/选将.png",
+      "media/对局.png"
+    ],
+    "icon": "media/Image_1794650726798_863.jpg",
+    "cover": "media/Image_1794650674333_246.jpg",
+    "author": [
+      {
+        "name": "bandbbs_2876693",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "2.7.0",
+      "file_name": "downloads/三国杀-手环9Pro10pro-2.7.0.rpk",
+      "versionCode": 70
+    },
+    "xmb11": {
+      "version": "2.7.0",
+      "file_name": "downloads/三国杀-手环10手环11-2.7.0.rpk",
+      "versionCode": 70
+    },
+    "xmb11nfc": {
+      "version": "2.7.0",
+      "file_name": "downloads/三国杀-手环10手环11-2.7.0.rpk",
+      "versionCode": 70
+    },
+    "xmb10": {
+      "version": "2.7.0",
+      "file_name": "downloads/三国杀-手环10手环11-2.7.0.rpk",
+      "versionCode": 70
+    },
+    "xmb10nfc": {
+      "version": "2.7.0",
+      "file_name": "downloads/三国杀-手环10手环11-2.7.0.rpk",
+      "versionCode": 70
+    },
+    "xmb9p": {
+      "version": "2.7.0",
+      "file_name": "downloads/三国杀-手环9Pro10pro-2.7.0.rpk",
+      "versionCode": 70
+    }
+  },
+  "ext": {}
+}
