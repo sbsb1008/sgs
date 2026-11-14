@@ -3,7 +3,7 @@
     "id": "com.ysnb.sgs",
     "restype": "quick_app",
     "name": "三国杀",
-    "description": "免费，多模式的三国杀",
+    "description": "抬手一局三国杀。21 位武将各带技能，27 种卡牌，6 种玩法——1v1、双人对战、三人混战、4 人身份场、斗地主、七步杀 102 关。全程离线，抬腕即战。",
     "preview": [
       "media/主页.png",
       "media/选将.png",
@@ -12,7 +12,7 @@
       "media/Image_1794656202745_444.jpg"
     ],
     "icon": "media/Image_1794650726798_863.jpg",
-    "cover": "media/Image_1794656270750_809.jpg",
+    "cover": "media/宣传图-浅色版-大图.jpg",
     "author": [
       {
         "name": "bandbbs_2876693",
